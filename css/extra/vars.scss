@@ -1,0 +1,20 @@
+$basic-black: rgba(0, 0, 0, 1);
+$black-lucent-01: rgba(0, 0, 0, .08);
+$black-lucent-02: rgba(0, 0, 0, .2);
+$basic-grey: rgba(184, 184, 184, 1);
+$light-grey: rgba(226, 224, 223, 1);
+$dark-grey: rgba(130, 130, 130, 1);
+$basic-white: rgba(255, 255, 255, 1);
+$basic-light-green: rgba(0,255,132,1);
+$basic-dark-green: rgba(0,199,103,1);
+$darker-green: rgba(0, 177, 91, 1);
+$darkest-green: rgba(1, 155, 81, 1);
+$basic-blue: rgba(21, 98, 234, 1);
+
+$box-shadow-right-01: 5px -1px 6px $black-lucent-01;
+$box-shadow-right-02: 5px -1px 6px $black-lucent-02;
+$box-shadow-down-01: 0 3px 6px $black-lucent-01;
+$box-shadow-right-down: 0 3px 6px $black-lucent-02;
+$box-shadow-right-top: 2px -5px 10px $black-lucent-02;
+
+$green-gradient: linear-gradient(155deg, $basic-light-green 0%, $basic-dark-green 100%);
